@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Real-chat/static/css/main.0730c33a.chunk.css",
+    "main.js": "/Real-chat/static/js/main.6b844423.chunk.js",
+    "main.js.map": "/Real-chat/static/js/main.6b844423.chunk.js.map",
+    "runtime-main.js": "/Real-chat/static/js/runtime-main.952bea3a.js",
+    "runtime-main.js.map": "/Real-chat/static/js/runtime-main.952bea3a.js.map",
+    "static/js/2.0b33d95c.chunk.js": "/Real-chat/static/js/2.0b33d95c.chunk.js",
+    "static/js/2.0b33d95c.chunk.js.map": "/Real-chat/static/js/2.0b33d95c.chunk.js.map",
+    "index.html": "/Real-chat/index.html",
+    "static/css/main.0730c33a.chunk.css.map": "/Real-chat/static/css/main.0730c33a.chunk.css.map",
+    "static/js/2.0b33d95c.chunk.js.LICENSE.txt": "/Real-chat/static/js/2.0b33d95c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.952bea3a.js",
+    "static/js/2.0b33d95c.chunk.js",
+    "static/css/main.0730c33a.chunk.css",
+    "static/js/main.6b844423.chunk.js"
+  ]
+}
